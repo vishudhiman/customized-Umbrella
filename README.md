@@ -1,8 +1,8 @@
 <h1 align="center">
-  Customize Umbrella
+  Customized Umbrella
 </h1>
 
-## 🚀 Installation
+## Installation
 
 **Clone the repository**
 
@@ -20,4 +20,4 @@ npm install
 ```
 npm start
 ```
-Open your browser and browse the url 'http://localhost:3000/'.
+Open your browser and browse the url 'http://localhost:3000/'  or here as well 'http://vishudhiman.github.io/customized-umbrella'.
