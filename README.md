@@ -20,4 +20,4 @@ npm install
 ```
 npm start
 ```
-Open your browser and browse the url 'http://localhost:3000/'  or here as well 'http://vishudhiman.github.io/customized-umbrella'.
+Open your browser and browse the url 'http://localhost:3000/'
